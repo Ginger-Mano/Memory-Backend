@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  term_name: MyString
+  definition: MyString
+  image: MyString
+  points: 
+  image_front: MyString
+
+two:
+  term_name: MyString
+  definition: MyString
+  image: MyString
+  points: 
+  image_front: MyString

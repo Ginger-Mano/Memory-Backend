@@ -1,4 +1,5 @@
 class Game < ApplicationRecord
   belongs_to :user
-  belongs_to :card
+   has_many :cards
+  has_many :cards,  dependent: :destroy 
 end
